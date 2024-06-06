@@ -10,5 +10,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TheProbablyHarsh?theme=wtf&font=Montserrat&ext=heatmap)
 
 ### >>> Notes <<<
-- Time Complexity focused have prefix starting with "T_" where I have used algorithms which have in reducing time-complexity.
-- Memory focused have prefix starting with "M_" where I have tried to incorporate I/O efficient algorithms
+- Most optimized solutions are mentioned here for all problems.
